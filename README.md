@@ -1,2 +1,2 @@
 # Preprocessor-model
-Analysing the preprocessor model by using and not using the machine learning tools
+Analysing the preprocessor with and without  using the machine learning tools
